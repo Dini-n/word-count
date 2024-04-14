@@ -1,0 +1,14 @@
+D:\word-count\bin\Debug\word-count.exe.config
+D:\word-count\bin\Debug\word-count.exe
+D:\word-count\bin\Debug\word-count.pdb
+D:\word-count\bin\Debug\AWSSDK.Core.dll
+D:\word-count\bin\Debug\AWSSDK.S3.dll
+D:\word-count\bin\Debug\AWSSDK.Core.pdb
+D:\word-count\bin\Debug\AWSSDK.Core.xml
+D:\word-count\bin\Debug\AWSSDK.S3.pdb
+D:\word-count\bin\Debug\AWSSDK.S3.xml
+D:\word-count\obj\Debug\word-count.csproj.AssemblyReference.cache
+D:\word-count\obj\Debug\word-count.csproj.CoreCompileInputs.cache
+D:\word-count\obj\Debug\word-count.csproj.CopyComplete
+D:\word-count\obj\Debug\word-count.exe
+D:\word-count\obj\Debug\word-count.pdb
